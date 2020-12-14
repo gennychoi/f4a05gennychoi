@@ -101,6 +101,7 @@ hr {
     border-width: 1px;
 }
 footer {
+    float: left;
     width: 100%;
     padding: 20px;
     text-align: center;
